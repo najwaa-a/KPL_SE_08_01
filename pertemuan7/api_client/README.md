@@ -1,0 +1,7 @@
+# Files
+
+1. main.py -> untuk memastikan file konfigurasi berjalan sesuai dengan env
+2. config.json -> semua data terkait dengan file konfigurasi internal
+3. .env -> semua data terkait dengan file konfigurasi
+4. config_json.py -> cara kita menarik data dari konf json (internal)
+5. config_env.json -> cara kita menarik data dari konf env (server)
