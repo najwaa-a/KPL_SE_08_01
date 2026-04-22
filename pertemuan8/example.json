@@ -1,0 +1,12 @@
+{
+    "nama": "John Doe",
+    "usia": 30,
+    "pekerjaan": "Software Engineer",
+    "hobi": ["membaca", "bersepeda", "memasak"],
+    "alamat": {
+        "jalan": "Jl. Merdeka No. 123",
+        "kota": "Jakarta",
+        "negara": "Indonesia"
+    }
+    
+}
