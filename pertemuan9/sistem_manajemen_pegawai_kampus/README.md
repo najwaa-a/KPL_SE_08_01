@@ -136,7 +136,3 @@ def mengaturKatalogBuku(self):
     pass
 ```
 Method khusus pustakawan yang gak dimiliki class lain.
-
----
-
-Intinya polanya sama semua — **panggil super() dulu, baru tambahin milik sendiri**. Makin ke bawah hierarkinya, makin banyak atribut yang dia punya karena numpuk dari parent-parentnya. 😄
