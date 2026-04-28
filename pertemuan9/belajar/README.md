@@ -13,7 +13,7 @@ Library (pustaka) adalah kumpulan kode yang sudah ditulis dan dikemas, yang bisa
 Library berisi fungsi, kelas, atau modul yang siap pakai tanpa perlu tahu cara kerja dalamnya (abstraksi).
 
 ### Library Construction (Membangun Library)
-Ini inti materinya — bagaimana cara membuat library sendiri.  
+Bagaimana cara membuat library sendiri.  
 Langkah-langkah umum:
 1. Identifikasi kode yang bisa di-reuse — fungsi/kelas yang sering dipakai berulang
 2. Modularisasi — pisahkan kode menjadi unit-unit mandiri
